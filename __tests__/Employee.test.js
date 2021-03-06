@@ -20,7 +20,7 @@ test('creating the employee ID', () => {
 });
 // #4
 test('creating the employee email', () => {
-    const testValue = "testthisemail@gmail.com"
+    const testValue = "testthisemail@gmail.com";
     const emp = new Employee("S", 1, testValue);
     expect(emp.email).toBe(testValue);
 });
