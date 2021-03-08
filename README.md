@@ -55,6 +55,7 @@ THEN I exit the application, and the HTML is generated
 `node`<br />
 `npm init` <br />
 `npm install inquirer`<br />
+`npm install jest`<br />
 `npm install joi`<br />
 `npm install email-validator`
 
